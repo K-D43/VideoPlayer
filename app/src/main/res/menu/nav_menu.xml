@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/feedback"
+        android:title="@string/feedback"
+        android:icon="@drawable/ic_feedback"
+        />
+    <item android:id="@+id/themesNav"
+        android:title="@string/themes"
+        android:icon="@drawable/ic_color"
+        />
+    <item android:id="@+id/sortOrderNav"
+        android:title="@string/sortOrder"
+        android:icon="@drawable/ic_sort_order"
+        />
+    <item android:id="@+id/about"
+        android:title="@string/all_about"
+        android:icon="@drawable/ic_info"/>
+    <item android:id="@+id/exit"
+        android:title="@string/all_exit"
+        android:icon="@drawable/ic_exit"/>
+</menu>
